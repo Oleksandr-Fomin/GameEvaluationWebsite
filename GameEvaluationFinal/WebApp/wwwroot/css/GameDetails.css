@@ -1,0 +1,92 @@
+.game-details-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+.game-details-header {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.game-img-container {
+    flex: 1;
+}
+
+    .game-img-container img {
+        max-width: 100%;
+        border-radius: 20px;
+        margin-top: 50px;
+    }
+
+.game-details {
+    flex: 2;
+    margin-left: 20px;
+}
+
+.game-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.game-release-date {
+    font-size: 16px;
+    font-weight: bold;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.game-score {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.game-description {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.reviews-container {
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.review {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 20px;
+}
+
+    .review:last-child {
+        margin-bottom: 0;
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+.review-author {
+    font-weight: bold;
+    color: #333;
+}
+
+.review-date {
+    font-size: 14px;
+    color: #777;
+}
+
+.review-text {
+    font-size: 16px;
+    color: #333;
+    margin-top: 10px;
+}

@@ -1,0 +1,33 @@
+﻿@page
+@using AdministrationLibrary;
+@using GameEvaluationProject;
+@using Logic;
+@inject IDBHelper dbHelper;
+@{
+
+    Layout = "_Layout";
+}
+@model IndexModel;
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    var gameAdmin = new GameAdministration(dbHelper);
+}
+
+@{
+    var games = gameAdmin.GetAllGames();
+}
+
+@foreach (var game in games)
+{
+    <div class="game">
+        <h2>@game.getTitle()</h2>
+        <div class="game-img">
+            <img src="@game.getImage()" alt="Game">
+        </div>
+        <p>@game.getDescription()</p>
+        <a asp-page="GameDetails" asp-route-gameId="@game.getId()" class="see-more-button">See More</a>
+    </div>
+}

@@ -1,0 +1,59 @@
+﻿@using System.Linq
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+    <link rel="stylesheet" href="/css/Style.css">
+    @RenderSection("Styles", required: false)
+    @RenderSection("Head", required: false)
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/Home">Home</a></li>
+                <li><a href="/Index">Games</a></li>
+                @{
+                    var showAdminLink = false;
+                    if (User.Identity.IsAuthenticated)
+                    {
+                        var userTypeClaim = User.Claims.FirstOrDefault(c => c.Type == "UserType");
+                        if (userTypeClaim != null && userTypeClaim.Value == "Admin")
+                        {
+                            showAdminLink = true;
+                        }
+                    }
+                }
+                @if (showAdminLink)
+                {
+                    <li><a href="/Administration">Administration</a></li>
+                }
+                <li><a href="/Profile">Profile</a></li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a href="/Logout">Log Out</a></li>
+                }
+                else
+                {
+                    <li><a href="/Login">Log In</a></li>
+                }
+            </ul>
+        </nav>
+    </header>
+
+    
+  
+   
+
+    <div id="games" class="content">
+        @RenderBody()
+    </div>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>

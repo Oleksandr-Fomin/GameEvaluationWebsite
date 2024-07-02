@@ -1,0 +1,744 @@
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.exe
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.deps.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.runtimeconfig.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.AssemblyReference.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.Form1.resources
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.AssemblyInfoInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.AssemblyInfo.cs
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.CopyComplete
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\refint\DesktopApp1.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.genruntimeconfig.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\ref\DesktopApp1.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DatabaseLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\EntityLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\EntityLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\DatabaseLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\MvcTestingAppManifest.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Accessibility.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.CSharp.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Features.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Http.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Options.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.JSInterop.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.VisualBasic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.VisualBasic.Forms.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.Registry.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\mscorlib.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\netstandard.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.AppContext.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Buffers.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.CodeDom.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.Concurrent.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.Immutable.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.NonGeneric.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.Specialized.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.Annotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Configuration.ConfigurationManager.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Configuration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Console.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Data.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Data.DataSetExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Data.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Design.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Contracts.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Debug.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.EventLog.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Process.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Tools.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Tracing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.DirectoryServices.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.Design.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Dynamic.Runtime.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Formats.Asn1.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Globalization.Calendars.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Globalization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Globalization.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.Brotli.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.IsolatedStorage.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Packaging.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Pipelines.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Pipes.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.Expressions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.Parallel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.Queryable.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Memory.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Http.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Http.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.HttpListener.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Mail.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.NameResolution.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.NetworkInformation.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Ping.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Requests.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Security.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.ServicePoint.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Sockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebProxy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebSockets.Client.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebSockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Numerics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Numerics.Vectors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ObjectModel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Emit.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Metadata.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.Reader.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.ResourceManager.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.Writer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Handles.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.InteropServices.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Intrinsics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Loader.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Numerics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Claims.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Pkcs.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Permissions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Principal.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Principal.Windows.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.SecureString.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ServiceModel.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ServiceProcess.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encoding.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encodings.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.RegularExpressions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Channels.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Overlapped.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Thread.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.ThreadPool.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Timer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Transactions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Transactions.Local.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ValueTuple.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Web.HttpUtility.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.Design.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.Design.Editors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.Linq.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.ReaderWriter.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.Serialization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XDocument.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XmlDocument.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XmlSerializer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XPath.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\refs\WindowsBase.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.TestHost.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\obj\Debug\net6.0-windows\MvcTestingAppManifest.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Logic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DesktopApp1\bin\Debug\net6.0-windows\Logic.pdb
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\MvcTestingAppManifest.json
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.exe
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.deps.json
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.runtimeconfig.json
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DesktopApp1.pdb
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Accessibility.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authorization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Cors.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Hosting.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Identity.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Localization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Metadata.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Razor.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Routing.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.Session.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.CSharp.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Features.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Hosting.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Http.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Identity.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Localization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Console.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.ObjectPool.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Options.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Extensions.WebEncoders.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.JSInterop.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Net.Http.Headers.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.VisualBasic.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.VisualBasic.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.VisualBasic.Forms.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.Registry.AccessControl.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.Registry.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\Microsoft.Win32.SystemEvents.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\mscorlib.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\netstandard.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.AppContext.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Buffers.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.CodeDom.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.Concurrent.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.Immutable.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.NonGeneric.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Collections.Specialized.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.Annotations.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.DataAnnotations.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.EventBasedAsync.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ComponentModel.TypeConverter.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Configuration.ConfigurationManager.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Configuration.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Console.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Data.Common.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Data.DataSetExtensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Data.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Design.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Contracts.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Debug.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.DiagnosticSource.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.EventLog.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.FileVersionInfo.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.PerformanceCounter.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Process.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.StackTrace.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Tools.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.TraceSource.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Diagnostics.Tracing.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.DirectoryServices.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.Common.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.Design.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Drawing.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Dynamic.Runtime.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Formats.Asn1.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Globalization.Calendars.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Globalization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Globalization.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.Brotli.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.FileSystem.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Compression.ZipFile.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.AccessControl.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.DriveInfo.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.FileSystem.Watcher.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.IsolatedStorage.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.MemoryMappedFiles.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Packaging.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Pipelines.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Pipes.AccessControl.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.Pipes.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.IO.UnmanagedMemoryStream.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.Expressions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.Parallel.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Linq.Queryable.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Memory.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Http.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Http.Json.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.HttpListener.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Mail.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.NameResolution.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.NetworkInformation.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Ping.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Requests.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Security.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.ServicePoint.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.Sockets.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebHeaderCollection.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebProxy.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebSockets.Client.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Net.WebSockets.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Numerics.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Numerics.Vectors.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ObjectModel.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.DispatchProxy.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Emit.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Emit.ILGeneration.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Emit.Lightweight.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Metadata.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Reflection.TypeExtensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.Reader.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.ResourceManager.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Resources.Writer.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Handles.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.InteropServices.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Intrinsics.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Loader.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Numerics.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Formatters.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Json.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Runtime.Serialization.Xml.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.AccessControl.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Claims.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Algorithms.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Cng.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Csp.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Encoding.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.OpenSsl.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Pkcs.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.ProtectedData.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.X509Certificates.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Cryptography.Xml.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Permissions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Principal.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.Principal.Windows.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Security.SecureString.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ServiceModel.Web.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ServiceProcess.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encoding.CodePages.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encoding.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encoding.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Encodings.Web.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.Json.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Text.RegularExpressions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.AccessControl.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Channels.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Overlapped.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.Dataflow.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Tasks.Parallel.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Thread.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.ThreadPool.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Threading.Timer.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Transactions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Transactions.Local.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.ValueTuple.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Web.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Web.HttpUtility.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Extensions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.Design.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.Design.Editors.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Windows.Forms.Primitives.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.Linq.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.ReaderWriter.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.Serialization.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XDocument.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XmlDocument.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XmlSerializer.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XPath.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\System.Xml.XPath.XDocument.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\refs\WindowsBase.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.TestHost.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DatabaseLibrary.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Logic.dll
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\DatabaseLibrary.pdb
+C:\GameEvaluationFinal\DesktopApp1\bin\Debug\net6.0-windows\Logic.pdb
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.AssemblyReference.cache
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.Form1.resources
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.GenerateResource.cache
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\MvcTestingAppManifest.json
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.AssemblyInfoInputs.cache
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.AssemblyInfo.cs
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.csproj.CopyComplete
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.dll
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\refint\DesktopApp1.dll
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.pdb
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\DesktopApp1.genruntimeconfig.cache
+C:\GameEvaluationFinal\DesktopApp1\obj\Debug\net6.0-windows\ref\DesktopApp1.dll

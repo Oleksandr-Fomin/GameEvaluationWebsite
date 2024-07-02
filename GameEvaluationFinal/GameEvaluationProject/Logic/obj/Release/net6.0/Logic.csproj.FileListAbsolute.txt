@@ -1,0 +1,15 @@
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\bin\Release\net6.0\Logic.deps.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\bin\Release\net6.0\Logic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\bin\Release\net6.0\Logic.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\bin\Release\net6.0\EntityLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\bin\Release\net6.0\EntityLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.csproj.AssemblyReference.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.AssemblyInfo.cs
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.csproj.CopyComplete
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\refint\Logic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\Logic.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\GameEvaluationProject\Logic\obj\Release\net6.0\ref\Logic.dll

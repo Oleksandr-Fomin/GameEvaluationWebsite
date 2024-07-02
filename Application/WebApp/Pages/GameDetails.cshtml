@@ -1,0 +1,57 @@
+﻿@page
+@model GameDetailsModel
+@{
+    ViewData["Title"] = "Game Details";
+    Layout = "_Layout";
+}
+
+@section Head {
+    <link rel="stylesheet" href="/css/GameDetails.css">
+}
+
+<div class="game-details-container">
+    <div class="game-details-header">
+        <div class="game-img-container">
+            <img src="@Model.game.getImage()" alt="Game">
+        </div>
+        <div class="game-details">
+            <h2 class="game-title">@Model.game.getTitle()</h2>
+            <p class="game-release-date">Release Date: @Model.game.getReleaseDate()</p>
+            <p class="game-score">Average Score: @Model.averageScore.ToString("F1")</p>
+            <p class="game-description">@Model.game.getDescription()</p>
+        </div>
+    </div>
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="review-form-container">
+            <h3>Submit Your Review</h3>
+            <form method="post">
+                <input type="hidden" asp-for="GameId" value="@Model.game.getId()" />
+                <label for="rating">Rating:</label>
+                <input type="number" id="rating" name="rating" min="1" max="10" required />
+                <br />
+                <label for="comment">Comment:</label>
+                <textarea id="comment" name="comment" rows="5" cols="50" required></textarea>
+                <br />
+                <button type="submit">Submit Review</button>
+            </form>
+        </div>
+    }
+
+    <div class="reviews-container">
+        <h3>Reviews</h3>
+        @foreach (var review in Model.reviews)
+        {
+            <div class="review">
+                <div class="review-header">
+                    <span class="review-author">@review.Author</span>   
+                    <span class="review-date">@review.ReviewDate.ToString("MMMM dd, yyyy")</span>  <button class="btn btn-warning" data-toggle="modal" data-target="#reportModal" data-review-id="@review.reviewId">Report</button>
+                </div>
+                <div class="review-score">Rating: @review.rating</div>
+                <div class="review-text">@review.comment</div>
+               
+            </div>
+        }
+    </div>
+</div>

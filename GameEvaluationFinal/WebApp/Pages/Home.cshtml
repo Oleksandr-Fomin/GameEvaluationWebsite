@@ -1,0 +1,47 @@
+﻿@page
+@model WebApp.Pages.HomeModel
+@{
+    ViewData["Title"] = "Home";
+    Layout = "_Layout";
+}
+
+<link rel="stylesheet" href="~/css/Home.css">
+
+<div class="home-container">
+    <h1 class="section-title">Best Rated Game</h1>
+    @if (Model.BestRatedGame != null)
+    {
+        <div class="best-rated-game">
+            <div class="game-img-container">
+                <img src="@Model.BestRatedGame.ImageURL" class="game-img" alt="@Model.BestRatedGame.Title">
+            </div>
+            <div class="game-details">
+                <h2 class="game-title">@Model.BestRatedGame.Title</h2>
+                <p class="game-release-date">Release Date: @Model.BestRatedGame.ReleaseDate</p>
+                <p class="game-score">Average Score: @Model.BestRatedGame.AverageScore.ToString("F1")</p>
+                <p class="game-description">@Model.BestRatedGame.Description</p>
+            </div>
+        </div>
+    }
+
+    <h2 class="section-title mt-5">Other Good Rated Games</h2>
+    @if (Model.GoodRatedGames != null)
+    {
+        <div class="grid-container">
+            @foreach (var game in Model.GoodRatedGames)
+            {
+                <div class="best-rated-game">
+                    <div class="game-img-container">
+                        <img src="@game.ImageURL" class="game-img" alt="@game.Title">
+                    </div>
+                    <div class="game-details">
+                        <h2 class="game-title">@game.Title</h2>
+                        <p class="game-release-date">Release Date: @game.ReleaseDate</p>
+                        <p class="game-score">Average Score: @game.AverageScore.ToString("F1")</p>
+                        <p class="game-description">@game.Description</p>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

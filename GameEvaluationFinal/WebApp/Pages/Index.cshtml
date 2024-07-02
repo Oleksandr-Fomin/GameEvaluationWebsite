@@ -1,0 +1,80 @@
+﻿@page
+@model IndexModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home page";
+}
+<div class="sort-filter-panel">
+    <form asp-page="Index" method="get" id="searchSortForm">
+        <input class="search-input" type="text" asp-for="CurrentFilter" placeholder="Search" />
+        <button class="search-button" type="submit" id="searchButton">🔍</button>
+
+        <div class="custom-select">
+            <select asp-for="CurrentSort" asp-items="Model.SortingOptions" id="sortSelect">
+                <option value="">Sort by...</option>
+            </select>
+        </div>
+
+        <div class="custom-select">
+            <select asp-for="SelectedGenre" asp-items="Model.GenreOptions" id="genreSelect">
+                <option value="">-- Select Genre --</option>
+            </select>
+        </div>
+    </form>
+</div>
+
+<div id="messages">
+    @foreach (var message in Model.Messages)
+    {
+        if (!message.IsRead)
+        {
+            <div class="alert alert-info alert-dismissible fade show fixed-message-box" role="alert">
+                <form method="post" asp-page-handler="MarkMessageAsRead" asp-route-messageId="@message.Id">
+                    <button type="submit" class="close" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </form>
+                <h4 class="alert-heading">Your Messages:</h4>
+                <ul>
+                    <li>@message.Text</li>
+                </ul>
+            </div>
+        }
+    }
+</div>
+    
+
+
+
+<div id="games">
+    @foreach (var game in Model.Games)
+    {
+        <div class="game">
+            <div class="game-img">
+                <img src="@game.ImageURL" alt="Game">
+            </div>
+            <div>
+                <h2>@game.Title</h2>
+                <p>@game.Description</p>
+            </div>
+            <a asp-page="/GameDetails" asp-route-GameId="@game.GameId" class="see-more-button">See More</a>
+        </div>
+    }
+</div>
+
+
+
+<script>
+    document.getElementById('sortSelect').addEventListener('change', function () {
+        document.getElementById('searchSortForm').submit();
+    });
+
+    document.getElementById('genreSelect').addEventListener('change', function () {
+        document.getElementById('searchSortForm').submit();
+    });
+
+    document.getElementById('searchButton').addEventListener('click', function (event) {
+        event.preventDefault();
+        document.getElementById('searchSortForm').submit();
+    });
+</script>

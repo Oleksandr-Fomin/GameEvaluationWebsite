@@ -1,0 +1,12 @@
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\bin\Debug\net6.0\EntityLibrary.deps.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\bin\Debug\net6.0\EntityLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\bin\Debug\net6.0\EntityLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.csproj.AssemblyReference.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.AssemblyInfoInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.AssemblyInfo.cs
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\refint\EntityLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\EntityLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\EntityLibrary\obj\Debug\net6.0\ref\EntityLibrary.dll

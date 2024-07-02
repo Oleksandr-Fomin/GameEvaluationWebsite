@@ -1,0 +1,917 @@
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.deps.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\EntityLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\EntityLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfo.cs
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CopyComplete
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\refint\DatabaseLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.pdb
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\ref\DatabaseLibrary.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\Logic.dll
+C:\Users\Justs\OneDrive\Рабочий стол\Visual Studio\DatabaseLibrary\bin\Debug\net6.0\Logic.pdb
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfo.cs
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.dll
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\refint\DatabaseLibrary.dll
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.pdb
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\MvcTestingAppManifest.json
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.deps.json
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.pdb
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\mscorlib.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\netstandard.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Console.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Core.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Memory.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Web.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Windows.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\Logic.dll
+C:\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\Logic.pdb
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CopyComplete
+C:\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\ref\DatabaseLibrary.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\MvcTestingAppManifest.json
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.deps.json
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.pdb
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\mscorlib.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\netstandard.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Console.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Core.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Data.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Memory.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Web.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Windows.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\Logic.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\bin\Debug\net6.0\Logic.pdb
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfo.cs
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CopyComplete
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\refint\DatabaseLibrary.dll
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.pdb
+C:\FinalSubmissionFominOleksandr\GameEvaluationFinal\DatabaseLibrary\obj\Debug\net6.0\ref\DatabaseLibrary.dll
